@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\MaximumAndMinimumElements\bin\Debug\netcoreapp2.1\MaximumAndMinimumElements.deps.json
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\MaximumAndMinimumElements\bin\Debug\netcoreapp2.1\MaximumAndMinimumElements.runtimeconfig.json
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\MaximumAndMinimumElements\bin\Debug\netcoreapp2.1\MaximumAndMinimumElements.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\MaximumAndMinimumElements\bin\Debug\netcoreapp2.1\MaximumAndMinimumElements.dll
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\MaximumAndMinimumElements\bin\Debug\netcoreapp2.1\MaximumAndMinimumElements.pdb
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\MaximumAndMinimumElements\obj\Debug\netcoreapp2.1\MaximumAndMinimumElements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\MaximumAndMinimumElements\obj\Debug\netcoreapp2.1\MaximumAndMinimumElements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\MaximumAndMinimumElements\obj\Debug\netcoreapp2.1\MaximumAndMinimumElements.AssemblyInfo.cs
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\MaximumAndMinimumElements\obj\Debug\netcoreapp2.1\MaximumAndMinimumElements.dll
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\MaximumAndMinimumElements\obj\Debug\netcoreapp2.1\MaximumAndMinimumElements.pdb

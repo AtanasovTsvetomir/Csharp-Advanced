@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\FashionBotique\bin\Debug\netcoreapp2.1\FashionBotique.deps.json
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\FashionBotique\bin\Debug\netcoreapp2.1\FashionBotique.runtimeconfig.json
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\FashionBotique\bin\Debug\netcoreapp2.1\FashionBotique.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\FashionBotique\bin\Debug\netcoreapp2.1\FashionBotique.dll
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\FashionBotique\bin\Debug\netcoreapp2.1\FashionBotique.pdb
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\FashionBotique\obj\Debug\netcoreapp2.1\FashionBotique.csprojAssemblyReference.cache
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\FashionBotique\obj\Debug\netcoreapp2.1\FashionBotique.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\FashionBotique\obj\Debug\netcoreapp2.1\FashionBotique.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\FashionBotique\obj\Debug\netcoreapp2.1\FashionBotique.AssemblyInfo.cs
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\FashionBotique\obj\Debug\netcoreapp2.1\FashionBotique.dll
+C:\Users\User\source\repos\C#-Advanced\StackAndQueues\FashionBotique\obj\Debug\netcoreapp2.1\FashionBotique.pdb
