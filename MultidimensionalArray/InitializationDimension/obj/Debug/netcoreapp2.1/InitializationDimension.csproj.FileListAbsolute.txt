@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\InitializationDimension\bin\Debug\netcoreapp2.1\InitializationDimension.deps.json
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\InitializationDimension\bin\Debug\netcoreapp2.1\InitializationDimension.runtimeconfig.json
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\InitializationDimension\bin\Debug\netcoreapp2.1\InitializationDimension.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\InitializationDimension\bin\Debug\netcoreapp2.1\InitializationDimension.dll
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\InitializationDimension\bin\Debug\netcoreapp2.1\InitializationDimension.pdb
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\InitializationDimension\obj\Debug\netcoreapp2.1\InitializationDimension.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\InitializationDimension\obj\Debug\netcoreapp2.1\InitializationDimension.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\InitializationDimension\obj\Debug\netcoreapp2.1\InitializationDimension.AssemblyInfo.cs
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\InitializationDimension\obj\Debug\netcoreapp2.1\InitializationDimension.dll
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\InitializationDimension\obj\Debug\netcoreapp2.1\InitializationDimension.pdb

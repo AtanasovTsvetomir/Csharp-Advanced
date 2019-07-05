@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\MatrixShuffling\bin\Debug\netcoreapp2.1\MatrixShuffling.deps.json
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\MatrixShuffling\bin\Debug\netcoreapp2.1\MatrixShuffling.runtimeconfig.json
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\MatrixShuffling\bin\Debug\netcoreapp2.1\MatrixShuffling.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\MatrixShuffling\bin\Debug\netcoreapp2.1\MatrixShuffling.dll
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\MatrixShuffling\bin\Debug\netcoreapp2.1\MatrixShuffling.pdb
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.AssemblyInfo.cs
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.dll
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.pdb

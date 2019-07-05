@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\JaggedArray\bin\Debug\netcoreapp2.1\JaggedArray.deps.json
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\JaggedArray\bin\Debug\netcoreapp2.1\JaggedArray.runtimeconfig.json
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\JaggedArray\bin\Debug\netcoreapp2.1\JaggedArray.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\JaggedArray\bin\Debug\netcoreapp2.1\JaggedArray.dll
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\JaggedArray\bin\Debug\netcoreapp2.1\JaggedArray.pdb
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\JaggedArray\obj\Debug\netcoreapp2.1\JaggedArray.csprojAssemblyReference.cache
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\JaggedArray\obj\Debug\netcoreapp2.1\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\JaggedArray\obj\Debug\netcoreapp2.1\JaggedArray.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\JaggedArray\obj\Debug\netcoreapp2.1\JaggedArray.AssemblyInfo.cs
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\JaggedArray\obj\Debug\netcoreapp2.1\JaggedArray.dll
+C:\Users\User\source\repos\C#-Advanced\MultidimensionalArray\JaggedArray\obj\Debug\netcoreapp2.1\JaggedArray.pdb

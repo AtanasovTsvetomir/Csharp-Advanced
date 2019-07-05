@@ -1,0 +1,11 @@
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\CSharpAdvancedExam24Feb19\02TronRacers\bin\Debug\netcoreapp2.1\02TronRacers.deps.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\CSharpAdvancedExam24Feb19\02TronRacers\bin\Debug\netcoreapp2.1\02TronRacers.runtimeconfig.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\CSharpAdvancedExam24Feb19\02TronRacers\bin\Debug\netcoreapp2.1\02TronRacers.runtimeconfig.dev.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\CSharpAdvancedExam24Feb19\02TronRacers\bin\Debug\netcoreapp2.1\02TronRacers.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\CSharpAdvancedExam24Feb19\02TronRacers\bin\Debug\netcoreapp2.1\02TronRacers.pdb
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\CSharpAdvancedExam24Feb19\02TronRacers\obj\Debug\netcoreapp2.1\02TronRacers.csprojAssemblyReference.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\CSharpAdvancedExam24Feb19\02TronRacers\obj\Debug\netcoreapp2.1\02TronRacers.csproj.CoreCompileInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\CSharpAdvancedExam24Feb19\02TronRacers\obj\Debug\netcoreapp2.1\02TronRacers.AssemblyInfoInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\CSharpAdvancedExam24Feb19\02TronRacers\obj\Debug\netcoreapp2.1\02TronRacers.AssemblyInfo.cs
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\CSharpAdvancedExam24Feb19\02TronRacers\obj\Debug\netcoreapp2.1\02TronRacers.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\CSharpAdvancedExam24Feb19\02TronRacers\obj\Debug\netcoreapp2.1\02TronRacers.pdb
