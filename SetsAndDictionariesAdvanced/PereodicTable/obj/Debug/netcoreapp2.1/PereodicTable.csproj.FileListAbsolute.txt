@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SetsAndDictionariesAdvanced\PereodicTable\bin\Debug\netcoreapp2.1\PereodicTable.deps.json
+C:\Users\User\source\repos\SetsAndDictionariesAdvanced\PereodicTable\bin\Debug\netcoreapp2.1\PereodicTable.runtimeconfig.json
+C:\Users\User\source\repos\SetsAndDictionariesAdvanced\PereodicTable\bin\Debug\netcoreapp2.1\PereodicTable.runtimeconfig.dev.json
+C:\Users\User\source\repos\SetsAndDictionariesAdvanced\PereodicTable\bin\Debug\netcoreapp2.1\PereodicTable.dll
+C:\Users\User\source\repos\SetsAndDictionariesAdvanced\PereodicTable\bin\Debug\netcoreapp2.1\PereodicTable.pdb
+C:\Users\User\source\repos\SetsAndDictionariesAdvanced\PereodicTable\obj\Debug\netcoreapp2.1\PereodicTable.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SetsAndDictionariesAdvanced\PereodicTable\obj\Debug\netcoreapp2.1\PereodicTable.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SetsAndDictionariesAdvanced\PereodicTable\obj\Debug\netcoreapp2.1\PereodicTable.AssemblyInfo.cs
+C:\Users\User\source\repos\SetsAndDictionariesAdvanced\PereodicTable\obj\Debug\netcoreapp2.1\PereodicTable.dll
+C:\Users\User\source\repos\SetsAndDictionariesAdvanced\PereodicTable\obj\Debug\netcoreapp2.1\PereodicTable.pdb
