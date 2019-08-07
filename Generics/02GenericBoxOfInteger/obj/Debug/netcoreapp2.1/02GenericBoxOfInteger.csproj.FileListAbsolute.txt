@@ -1,0 +1,11 @@
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\02GenericBoxOfInteger\bin\Debug\netcoreapp2.1\02GenericBoxOfInteger.deps.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\02GenericBoxOfInteger\bin\Debug\netcoreapp2.1\02GenericBoxOfInteger.runtimeconfig.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\02GenericBoxOfInteger\bin\Debug\netcoreapp2.1\02GenericBoxOfInteger.runtimeconfig.dev.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\02GenericBoxOfInteger\bin\Debug\netcoreapp2.1\02GenericBoxOfInteger.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\02GenericBoxOfInteger\bin\Debug\netcoreapp2.1\02GenericBoxOfInteger.pdb
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\02GenericBoxOfInteger\obj\Debug\netcoreapp2.1\02GenericBoxOfInteger.csprojAssemblyReference.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\02GenericBoxOfInteger\obj\Debug\netcoreapp2.1\02GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\02GenericBoxOfInteger\obj\Debug\netcoreapp2.1\02GenericBoxOfInteger.AssemblyInfoInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\02GenericBoxOfInteger\obj\Debug\netcoreapp2.1\02GenericBoxOfInteger.AssemblyInfo.cs
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\02GenericBoxOfInteger\obj\Debug\netcoreapp2.1\02GenericBoxOfInteger.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\02GenericBoxOfInteger\obj\Debug\netcoreapp2.1\02GenericBoxOfInteger.pdb

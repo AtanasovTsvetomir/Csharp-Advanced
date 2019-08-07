@@ -1,0 +1,11 @@
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\01GenericBoxOfString\bin\Debug\netcoreapp2.1\01GenericBoxOfString.deps.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\01GenericBoxOfString\bin\Debug\netcoreapp2.1\01GenericBoxOfString.runtimeconfig.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\01GenericBoxOfString\bin\Debug\netcoreapp2.1\01GenericBoxOfString.runtimeconfig.dev.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\01GenericBoxOfString\bin\Debug\netcoreapp2.1\01GenericBoxOfString.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\01GenericBoxOfString\bin\Debug\netcoreapp2.1\01GenericBoxOfString.pdb
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\01GenericBoxOfString\obj\Debug\netcoreapp2.1\01GenericBoxOfString.csprojAssemblyReference.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\01GenericBoxOfString\obj\Debug\netcoreapp2.1\01GenericBoxOfString.csproj.CoreCompileInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\01GenericBoxOfString\obj\Debug\netcoreapp2.1\01GenericBoxOfString.AssemblyInfoInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\01GenericBoxOfString\obj\Debug\netcoreapp2.1\01GenericBoxOfString.AssemblyInfo.cs
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\01GenericBoxOfString\obj\Debug\netcoreapp2.1\01GenericBoxOfString.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\01GenericBoxOfString\obj\Debug\netcoreapp2.1\01GenericBoxOfString.pdb

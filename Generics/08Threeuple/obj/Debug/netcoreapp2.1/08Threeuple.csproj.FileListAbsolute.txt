@@ -1,0 +1,10 @@
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\08Threeuple\bin\Debug\netcoreapp2.1\08Threeuple.deps.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\08Threeuple\bin\Debug\netcoreapp2.1\08Threeuple.runtimeconfig.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\08Threeuple\bin\Debug\netcoreapp2.1\08Threeuple.runtimeconfig.dev.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\08Threeuple\bin\Debug\netcoreapp2.1\08Threeuple.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\08Threeuple\bin\Debug\netcoreapp2.1\08Threeuple.pdb
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\08Threeuple\obj\Debug\netcoreapp2.1\08Threeuple.csproj.CoreCompileInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\08Threeuple\obj\Debug\netcoreapp2.1\08Threeuple.AssemblyInfoInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\08Threeuple\obj\Debug\netcoreapp2.1\08Threeuple.AssemblyInfo.cs
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\08Threeuple\obj\Debug\netcoreapp2.1\08Threeuple.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\08Threeuple\obj\Debug\netcoreapp2.1\08Threeuple.pdb

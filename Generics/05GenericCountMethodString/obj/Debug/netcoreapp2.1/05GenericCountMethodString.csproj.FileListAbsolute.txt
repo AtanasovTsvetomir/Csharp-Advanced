@@ -1,0 +1,11 @@
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\05GenericCountMethodString\bin\Debug\netcoreapp2.1\05GenericCountMethodString.deps.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\05GenericCountMethodString\bin\Debug\netcoreapp2.1\05GenericCountMethodString.runtimeconfig.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\05GenericCountMethodString\bin\Debug\netcoreapp2.1\05GenericCountMethodString.runtimeconfig.dev.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\05GenericCountMethodString\bin\Debug\netcoreapp2.1\05GenericCountMethodString.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\05GenericCountMethodString\bin\Debug\netcoreapp2.1\05GenericCountMethodString.pdb
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\05GenericCountMethodString\obj\Debug\netcoreapp2.1\05GenericCountMethodString.csproj.CoreCompileInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\05GenericCountMethodString\obj\Debug\netcoreapp2.1\05GenericCountMethodString.AssemblyInfoInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\05GenericCountMethodString\obj\Debug\netcoreapp2.1\05GenericCountMethodString.AssemblyInfo.cs
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\05GenericCountMethodString\obj\Debug\netcoreapp2.1\05GenericCountMethodString.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\05GenericCountMethodString\obj\Debug\netcoreapp2.1\05GenericCountMethodString.pdb
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\05GenericCountMethodString\obj\Debug\netcoreapp2.1\05GenericCountMethodString.csprojAssemblyReference.cache

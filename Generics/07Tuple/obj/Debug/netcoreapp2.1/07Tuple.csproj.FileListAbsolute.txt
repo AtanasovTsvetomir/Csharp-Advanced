@@ -1,0 +1,11 @@
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\07Tuple\bin\Debug\netcoreapp2.1\07Tuple.deps.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\07Tuple\bin\Debug\netcoreapp2.1\07Tuple.runtimeconfig.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\07Tuple\bin\Debug\netcoreapp2.1\07Tuple.runtimeconfig.dev.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\07Tuple\bin\Debug\netcoreapp2.1\07Tuple.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\07Tuple\bin\Debug\netcoreapp2.1\07Tuple.pdb
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\07Tuple\obj\Debug\netcoreapp2.1\07Tuple.csprojAssemblyReference.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\07Tuple\obj\Debug\netcoreapp2.1\07Tuple.csproj.CoreCompileInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\07Tuple\obj\Debug\netcoreapp2.1\07Tuple.AssemblyInfoInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\07Tuple\obj\Debug\netcoreapp2.1\07Tuple.AssemblyInfo.cs
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\07Tuple\obj\Debug\netcoreapp2.1\07Tuple.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\07Tuple\obj\Debug\netcoreapp2.1\07Tuple.pdb

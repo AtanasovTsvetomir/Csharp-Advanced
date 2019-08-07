@@ -1,0 +1,11 @@
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\03GenericSwapMethodString\bin\Debug\netcoreapp2.1\03GenericSwapMethodString.deps.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\03GenericSwapMethodString\bin\Debug\netcoreapp2.1\03GenericSwapMethodString.runtimeconfig.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\03GenericSwapMethodString\bin\Debug\netcoreapp2.1\03GenericSwapMethodString.runtimeconfig.dev.json
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\03GenericSwapMethodString\bin\Debug\netcoreapp2.1\03GenericSwapMethodString.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\03GenericSwapMethodString\bin\Debug\netcoreapp2.1\03GenericSwapMethodString.pdb
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\03GenericSwapMethodString\obj\Debug\netcoreapp2.1\03GenericSwapMethodString.csprojAssemblyReference.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\03GenericSwapMethodString\obj\Debug\netcoreapp2.1\03GenericSwapMethodString.csproj.CoreCompileInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\03GenericSwapMethodString\obj\Debug\netcoreapp2.1\03GenericSwapMethodString.AssemblyInfoInputs.cache
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\03GenericSwapMethodString\obj\Debug\netcoreapp2.1\03GenericSwapMethodString.AssemblyInfo.cs
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\03GenericSwapMethodString\obj\Debug\netcoreapp2.1\03GenericSwapMethodString.dll
+D:\СофтУни - Курсове\C# Advanced & C# OOP - May 19\GenericsExercises\03GenericSwapMethodString\obj\Debug\netcoreapp2.1\03GenericSwapMethodString.pdb
